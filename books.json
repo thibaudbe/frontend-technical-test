@@ -1,0 +1,17 @@
+[
+  {
+    "id": 20001,
+    "title": "React for dummies",
+    "authorId": 10001
+  },
+  {
+    "id": 20002,
+    "title": "Angular for dummies",
+    "authorId": 10002
+  },
+  {
+    "id": 20003,
+    "title": "Vue for dummies",
+    "authorId": 10003
+  }
+]
